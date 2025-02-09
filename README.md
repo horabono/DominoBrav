@@ -4,5 +4,10 @@ Durante el juego, para seleccionar una figura se hace clic izquierdo sobre ella,
 El archivo combinatoria.jar contiene la librería con las operaciones que permiten lograr las diferentes disposiciones de colores en las figuras (ver https://github.com/horabono/Combinatoria).
 El archivo DominoBrav.jar es directamente ejecutable.
 La carpeta imágenes contiene ejemplos de juego con las diferentes figuras.
+Cuadrados de giro libre.
 ![image](https://github.com/user-attachments/assets/43f138b2-9e67-4aac-b2dc-5eb7bc0228f8)
+Pentágonos de giro restringido.
+![image](https://github.com/user-attachments/assets/5a250208-08fc-4c1b-8565-d3fd99f0c871)
+Heptágonos de giro libre.
+![image](https://github.com/user-attachments/assets/9b4b9266-39d1-422b-913a-ea62535773a3)
 
